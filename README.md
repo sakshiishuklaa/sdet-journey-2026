@@ -8,6 +8,7 @@ This repository contains my journey to become an SDET.
 - Largest of Three Numbers
 - Multiplication
 - Sum of Array
+- Hello Sakshi
 
 ## Day-1-DSA
 - Count Even Numbers
