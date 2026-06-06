@@ -15,3 +15,20 @@ This repository contains my journey to become an SDET.
 - Find Sum
 - Largest Number in Array
 
+## Day2
+- Methods practice 
+
+## Day-2-DSA
+- Smallest number in array
+- Reverse Array
+
+## Day3
+- length
+- uppercase
+- lowercase
+- compareTo
+- reverse string
+
+## Day-3-DSA
+- Palindrome
+- Count vowels
