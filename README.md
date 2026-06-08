@@ -32,3 +32,23 @@ This repository contains my journey to become an SDET.
 ## Day-3-DSA
 - Palindrome
 - Count vowels
+
+## Day4
+- charAt()
+- substring()
+- contains()
+- replace()
+- trim()
+
+## Day-4-DSA
+- Count consonants
+- Check if two strings are anagrams.
+
+## Day5
+- Class OOP
+- Object
+- Properties
+
+## Day-5-DSA
+- Count words
+- Find frequency of character
