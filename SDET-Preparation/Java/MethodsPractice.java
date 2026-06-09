@@ -1,3 +1,4 @@
+package Java;
 class MethodsPractice
 {
 public static int add(int a, int b)

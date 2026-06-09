@@ -52,3 +52,10 @@ This repository contains my journey to become an SDET.
 ## Day-5-DSA
 - Count words
 - Find frequency of character
+
+## Day6
+- Constructor
+
+## Day-6-DSA
+- Count digits in a string
+- Remove spaces from a string
