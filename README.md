@@ -59,3 +59,10 @@ This repository contains my journey to become an SDET.
 ## Day-6-DSA
 - Count digits in a string
 - Remove spaces from a string
+
+## Day7
+- Encapsulation
+
+## Day-7-DSA
+- Find duplicate characters.
+- Count frequency of every character.
