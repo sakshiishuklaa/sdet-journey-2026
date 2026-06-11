@@ -66,3 +66,10 @@ This repository contains my journey to become an SDET.
 ## Day-7-DSA
 - Find duplicate characters.
 - Count frequency of every character.
+
+## Day8
+- Inheritance
+
+## Day-8-DSA
+- Find first non-repeating character.
+- Check if two strings are equal without using .equals().
